@@ -1,2 +1,2 @@
-# Implementation-of-Machine-Learning-on-Handwritten-Numeric-Digits
+# Handwritten-Numeric-Digit-Recognition
 The project focuses on developing and testing various machine learning models for handwritten numeric digit recognition such as Logistic Regression Classifier,Multilayer Perceptron and Convolutional Neural Network.Two distinct image processing techniques are implemented to ensure that the external test images are compatible with the models.Developed within the PyTorch framework,the project ensures concise methodology for testing handwritten digit recognition across the different models.The Modified National Institute of Standards and Technology(MNIST) database is used for training and testing the models.
